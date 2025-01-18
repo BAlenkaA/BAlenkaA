@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAlenkaA&theme=jolly">
-  <img src="/Chee.gif" width="755" height="566">
+  <img src="/Chee.gif" width="300" height="200">
 </p>
 
 
